@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm LaxmiVatsalyaDaita</h1>
 <h3 align="center">A passionate Data Science enthusiast exploring Autonomous Systems.</h3>
 
+- 😄 Pronouns: she/her
+
 - 🔭 I’m currently working on **FMCW Radar Networks**
 
-- 🌱 I’m currently learning **Natural Language Processing, ML for Signal Processing**
+- 🌱 I’m currently learning **Natural Language Processing and ML for Signal Processing**
 
-- 📫 How to reach me **daitavatsu@gmail.com**
+- 📫 Reach me at **daitavatsu@gmail.com**
 
-- ⚡ Fun fact **I once built an automated fruit-classifier model using Raspberry Pi and CNNs**
+- ⚡ Fun fact: **I once built an automated fruit-classifier model using Raspberry Pi and CNNs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
