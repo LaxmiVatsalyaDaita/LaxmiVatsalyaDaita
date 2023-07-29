@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **daitavatsu@gmail.com**
 
-- ⚡ Fun fact: **I once built an automated fruit-classifier model using Raspberry Pi and CNNs**
+- ⚡ Fun fact: **I (sometimes) make random scribbles on my iPad and call it Digital Art👩‍🎨🎨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
