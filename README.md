@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: she/her
 
-- 🔭 I’m currently working on **FMCW Radar Networks**
+- 🔭 I’m currently working on **designing a MAC for FMCW Radar Networks**
 
 - 🌱 I’m currently learning **Natural Language Processing and ML for Signal Processing**
 
