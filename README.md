@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmivatsalyadaita&theme=onedark&show_icons=true&locale=en&layout=compact" alt="laxmivatsalyadaita" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laxmivatsalyadaita&theme=onedark&show_icons=true&locale=en" alt="laxmivatsalyadaita" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmivatsalyadaita&theme=onedark" alt="laxmivatsalyadaita" /></p>
