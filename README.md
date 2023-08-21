@@ -10,6 +10,11 @@
 - 📫 Reach me at **daitavatsu@gmail.com**
 
 - ⚡ Fun fact: **I (sometimes) make random scribbles on my iPad and call it Digital Art👩‍🎨🎨**
+-  :boom: My tier/rank on Kaggle:
+
+
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/laxmivatsalyadaita/notebook)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/laxmivatsalyadaita/discussion)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
