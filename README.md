@@ -1,15 +1,7 @@
-<h1 align="center">Hi 👋, I'm LaxmiVatsalyaDaita</h1>
-<h3 align="center">A passionate Data Science enthusiast exploring Autonomous Systems.</h3>
+<h1 align="center">LaxmiVatsalyaDaita</h1>
 
 - 😄 Pronouns: she/her
-
-- 🔭 I’m currently working on **designing a MAC for FMCW Radar Networks**
-
-- 🌱 I’m currently learning **Natural Language Processing and ML for Signal Processing**
-
 - 📫 Reach me at **daitavatsu@gmail.com**
-
-- ⚡ Fun fact: **I (sometimes) make random scribbles on my iPad and call it Digital Art👩‍🎨🎨**
 -  :boom: My tier/rank on Kaggle:
 
 
