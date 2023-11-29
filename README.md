@@ -20,3 +20,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmivatsalyadaita&theme=onedark" alt="laxmivatsalyadaita" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmivatsalyadaita&layout=compact&theme=onedark" alt="laxmivatsalyadaita" /></p>
