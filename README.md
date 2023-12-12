@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: she/her
 - 📫 Reach me at **daitavatsu@gmail.com**
--  :boom: My tier/rank on Kaggle:
+- My tier/rank on Kaggle:
 
 
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/laxmivatsalyadaita/notebook)
